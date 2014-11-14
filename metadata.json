@@ -1,0 +1,16 @@
+{
+  "name": "puphpet-solr",
+  "version": "0.0.1",
+  "author": "Kirill Roskolii(Ro$k0)",
+  "summary": "Simple Apache Solr installation module developed for PuPHPet.com.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/RoSk0/puphpet-solr.git",
+  "project_page": "https://github.com/RoSk0/puphpet-solr",
+  "issues_url": "https://github.com/RoSk0/puphpet-solr/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 2.4.0"
+    }
+  ]
+}
